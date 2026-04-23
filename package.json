@@ -1,9 +1,10 @@
 {
   "name": "nova-bot-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runtime for Discord bots on Nova Bot Cloud",
   "main": "bot.js",
   "dependencies": {
-    "discord.js": "^14.16.3"
+    "discord.js": "^14.16.3",
+    "discord.js-selfbot-v13": "^3.0.5"
   }
 }
